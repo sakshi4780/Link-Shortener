@@ -87,6 +87,14 @@
 .glider-hide {
   opacity: 0;
 }
+.gliderIconsUpdated {
+  margin: 0 auto;
+  position: relative;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+  transform: translateZ(0);
+}
 .glider-dots {
   user-select: none;
   display: flex;
