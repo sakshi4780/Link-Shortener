@@ -45,7 +45,11 @@ label{
   color: #666666;
   margin: 4px 0px;
 }
-
+.button_styling_main{
+  font-size: 15px;
+  color: #666666;
+  margin: 4px 0px;
+}
 
 .checkbox{
   margin: 0px 10px;
