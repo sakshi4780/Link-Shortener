@@ -54,6 +54,9 @@ label{
 .checkbox{
   margin: 0px 10px;
 }
+.checkbox__box{
+  margin: 0px 10px;
+}
 
 .registration-form form{
   background-color: #fff;
